@@ -1,1 +1,2 @@
-aa
+aassh-add -l
+Invoke-Expression ssh-agent
